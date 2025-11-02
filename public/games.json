@@ -1,0 +1,17 @@
+{
+    "space-adventure": {
+        "title": "Space Adventure",
+        "description": "Jelajahi galaksi tak terbatas dan kalahkan musuh alien dalam petualangan luar angkasa yang epik.",
+        "iframeUrl": "https://games.example.com/space-adventure-embed"
+    },
+    "jungle-run": {
+        "title": "Jungle Run",
+        "description": "Berlarilah secepat mungkin, hindari rintangan, dan kumpulkan harta karun di hutan belantara.",
+        "iframeUrl": "https://games.example.com/jungle-run-embed"
+    },
+    "puzzle-master": {
+        "title": "Puzzle Master",
+        "description": "Uji kemampuan logikamu dengan ratusan teka-teki menantang yang akan mengasah otakmu.",
+        "iframeUrl": "https://games.example.com/puzzle-master-embed"
+    }
+}
